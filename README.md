@@ -8,8 +8,8 @@ The app supports light and dark modes.
 
 Used API : https://newsapi.org/
 
-used packages:
-&emsp;- bloc state management
-&emsp;- dio for network requests
-&emsp;- shared preferences
-&emsp;- webview for browsing
+used packages:  
+&emsp;- bloc state management  
+&emsp;- dio for network requests  
+&emsp;- shared preferences  
+&emsp;- webview for browsing  
